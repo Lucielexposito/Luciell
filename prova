@@ -1,0 +1,5 @@
+import funcions
+print(funcions(112, 25, 13)
+
+from funcions import mitjana3
+print(mitjana3(112, 25, 13)
